@@ -21,7 +21,7 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/bibas07/SauceDemo.git
+    git clone https://github.com/bibas07/SauceDemo-Playwright.git
     ```
 
 2.  **Install dependencies:**
